@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Mahmoud
 
-<!--
-**Mahmoud147/Mahmoud147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer  
+🌱 Learning JavaScript & Vue.js  
+🎯 Interested in building clean and interactive web interfaces  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Vue.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+- LinkedIn: (هتحطه بعدين)
