@@ -16,11 +16,15 @@ Front-End Developer passionate about building clean, responsive, and user-friend
 - Git & GitHub
 
 ## 📌 Featured Projects
-- AgriCrops – Responsive agriculture landing page
-- Quiz App – Interactive quiz application
-- Login Page – Sign in & Sign up UI
-- Hangman Game – Classic word guessing game
-- Health Doctors – Healthcare information page
+Here are some projects I’ve built recently — click to explore!
+
+🚀 **AgriCrops** – Responsive agriculture landing page  
+🎯 **Quiz App** – Fun interactive quiz game  
+🔑 **Login Page** – Clean login & signup UI  
+🕹️ **Hangman Game** – Classic hangman game  
+🏥 **Health Doctors** – Doctors info page  
+📐 **Bootstrap Practice** – Responsive layout practice
+
 
 ## 📫 Contact Me
 - GitHub: https://github.com/Mahmoud147
