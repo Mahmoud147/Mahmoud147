@@ -1,21 +1,26 @@
-## 👋 Hi, I'm Mahmoud Hamed
+# Hi, I'm Mahmoud 👋
 
-Front-End Developer focused on building clean and responsive web interfaces.
+Front-End Developer passionate about building clean, responsive, and user-friendly web interfaces.
 
-### 🧠 About Me
-- Background in Accounting, switched to Front-End Development
-- Experience with real UI designs (Figma to Code)
-- Interested in JavaScript & Vue.js applications
+## 🚀 About Me
+- Front-End Developer (HTML, CSS, JavaScript)
+- Focused on responsive design and clean UI
+- Interested in modern front-end frameworks
+- Always learning and improving
 
-### 🛠 Tech Stack
+## 🛠️ Tech Stack
 - HTML5
-- CSS3 (Flexbox, Grid, Sass)
-- JavaScript (DOM, ES6)
-- Vue.js
+- CSS3
+- JavaScript (ES6+)
+- Bootstrap
+- Git & GitHub
 
-### 🚀 Currently Working On
-- Improving JavaScript fundamentals
-- Building small Vue.js projects
+## 📌 Featured Projects
+- AgriCrops – Responsive agriculture landing page
+- Quiz App – Interactive quiz application
+- Login Page – Sign in & Sign up UI
+- Hangman Game – Classic word guessing game
+- Health Doctors – Healthcare information page
 
-### 📫 Contact
-- LinkedIn: (https://www.linkedin.com/in/mahmoud-hamed-891835253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## 📫 Contact Me
+- GitHub: https://github.com/Mahmoud147
