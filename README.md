@@ -68,13 +68,11 @@ I'm **Mahmoud**, a **Front-End Developer** passionate about building clean, resp
 
 <!-- GITHUB STATS -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud147&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Mahmoud147&theme=dark&hide_border=true" />
 </p>
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud147&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://metrics.lecoq.io/Mahmoud147?template=classic&languages=1&isocalendar=1&followup=1&hide_border=true" />
 </p>
-
 
 <!-- CONNECT -->
 ### Let’s connect and build something together 🚀  
