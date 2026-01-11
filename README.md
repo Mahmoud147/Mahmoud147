@@ -3,23 +3,26 @@
   <img src="https://komarev.com/ghpvc/?username=Mahmoud147&label=Profile%20views&color=blueviolet&style=for-the-badge" />
 </p>
 
-<!-- HEADER IMAGE -->
+<!-- HEADER GIF -->
 <picture>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="35%" />
 </picture>
 
 <!-- INTRO -->
-Hello World! 👋
+Hello World! 👋  
 
 I'm **Mahmoud**, a **Front-End Developer** passionate about building clean, responsive, and user-friendly web interfaces.
 
-💻 I specialize in **HTML, CSS, JavaScript**, and modern frameworks like **Vue.js** and **Nuxt.js**, with a strong focus on UI/UX and real-world projects.
+💻 I specialize in **HTML, CSS, JavaScript**, and modern frameworks like **Vue.js** and **Nuxt.js**, focusing on real-world projects and UI/UX.
 
-🌱 Currently improving my skills through hands-on projects and learning advanced front-end concepts.
+🌱 Always learning and improving through hands-on practice.
 
-<!-- SOCIAL LINKS -->
+<!-- SOCIAL LINKS (TOP) -->
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahmoud147)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@gmail.com)
 
 <br/>
@@ -27,7 +30,12 @@ I'm **Mahmoud**, a **Front-End Developer** passionate about building clean, resp
 <!-- DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 🛠️ Tech Stack
+<!-- EXPERTISE -->
+## 🚀 My expertise encompasses
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80"/>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -67,6 +75,12 @@ I'm **Mahmoud**, a **Front-End Developer** passionate about building clean, resp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud147&layout=compact&theme=jolly&hide_border=true" />
 </p>
 
-<!-- FOOTER -->
-### Let’s connect and build something together 🚀
-<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35"/>
+<!-- CONNECT -->
+### Let’s connect and build something together 🚀  
+<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40"/>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@gmail.com)
