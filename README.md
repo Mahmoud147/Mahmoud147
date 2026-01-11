@@ -5,8 +5,9 @@
 
 <!-- HEADER GIF -->
 <picture>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="35%" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" align="right" width="35%" />
 </picture>
+
 
 <!-- INTRO -->
 Hello World! 👋  
