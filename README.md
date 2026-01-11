@@ -66,14 +66,6 @@ I'm **Mahmoud**, a **Front-End Developer** passionate about building clean, resp
 - **Hangman Game** – Classic word guessing game  
 - **Health Doctors** – Doctors information page  
 
-<!-- GITHUB STATS -->
-<p>
-  <img src="https://streak-stats.demolab.com?user=Mahmoud147&theme=dark&hide_border=true" />
-</p>
-<p>
-  <img src="https://metrics.lecoq.io/Mahmoud147?template=classic&languages=1&isocalendar=1&followup=1&hide_border=true" />
-</p>
-
 <!-- CONNECT -->
 ### Let’s connect and build something together 🚀  
 <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40"/>
