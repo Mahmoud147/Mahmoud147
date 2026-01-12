@@ -43,52 +43,10 @@ I'm **Mahmoud**, a **Front-End Developer** passionate about building clean, resp
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80"/>
 </p>
 
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration:none;border:none"
->
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
+[![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration:none;border:none">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;border:none">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </a>
-
-  <a href="https://vuejs.org/" target="_blank" style="text-decoration:none;border:none">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  </a>
-
-  <a href="https://nuxt.com/" target="_blank" style="text-decoration:none;border:none">
-    <img src="https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=00DC82"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://getbootstrap.com/" target="_blank" style="text-decoration:none;border:none">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  </a>
-
-  <a href="https://sass-lang.com/" target="_blank" style="text-decoration:none;border:none">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration:none;border:none">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Mahmoud147" target="_blank" style="text-decoration:none;border:none">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.npmjs.com/" target="_blank" style="text-decoration:none;border:none">
-    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-  </a>
-</p>
 
 
 <!-- DIVIDER -->
