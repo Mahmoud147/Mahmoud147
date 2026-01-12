@@ -5,7 +5,7 @@
 
 <!-- HEADER GIF -->
 <picture>
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" align="right" width="35%" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="35%" />
 </picture>
 
 
